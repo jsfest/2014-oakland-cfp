@@ -2,19 +2,32 @@
 
 Call for proposals for all speakers and events at JSFest Oakland.
 
-## Propose a new event
-
-We are still adding events to JSFest Oakland. If you have an idea for an event please log an issue detailing the event and what level of commitment you can make in helping to organize it.
-
 # Speak at JSFest
 
 Many JSFest events are accepting talks. You can propose a talk that you'd like to give at any event or suggest a specific event you'd like the talk to be considered for.
+
+## Speaker Perks
+
+You will receive one free all access ticket for all of JSFest. If you live outside the bay area we can also offer a $400 accomodation stipend and a flight stipend of $500 for domestic speakers and $1000 for international speakers.
+
+If your employer is willing to cover the cost of your attendance we can offer a modified version of our "Basic" sponsorship in return. 
+
+Speakers who accept a stipend are asked kindly to refrain from promoting their employer during their talk.
 
 ## Talk Acceptance
 
 All talks are still being considered. Talks will be accepted one at a time over the next few months. Because many events are structured in a narrative acceptance happens in the order we fill the narrative.
 
 **You should still submit your talk! We are definitely still accepting them :)**
+
+## Events
+
+* NodeConf ONE-SHOT -- Single day node conference
+* HapiDay -- Single day hapi.js event
+* CSSConf -- Web styling and front-end confernece
+* DHTMLConf 2000 -- Best described by its [website](http://dthmlconf.com)
+* Nothing Is Sacred -- A conference about questioning assumptions, experimentation, and rebuilding what's already there * Browserified -- A single day browserify event
+* BaseJump -- A single day event about the world of small bespoke databases, mostly around leveldb and levelup.
 
 ### Submissions
 
