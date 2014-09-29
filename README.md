@@ -1,6 +1,6 @@
 # JSFest Oakland CFP
 
-Call for proposals for all speakers and events at JSFest Oakland. To submit a proposal, please open a new Github issue. If you'd prefer, you can also submit a proposal by emailing [jsfest-oakland-organizers@tenconf.com](mailto:jsfest-oakland-organizers@tenconf.com)
+Call for proposals for all speakers and events at JSFest Oakland. To submit a proposal, please open a new Github issue. If you'd prefer, you can also submit a proposal by emailing [jsfest-oakland-organizers@tenconf.com](mailto:jsfest-oakland-organizers@tenconf.com).
 
 # Speak at JSFest
 
