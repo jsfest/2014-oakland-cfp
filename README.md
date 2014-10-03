@@ -23,7 +23,7 @@ All talks are still being considered. Talks will be accepted one at a time over 
 ## Events
 
 * **NodeConf ONE-SHOT** Single day node conference
-* **HapiDay** Single day hapi.js event
+* **Hapi Days** Single day [hapi.js](http://hapijs.com) event
 * **CSSConf** Web styling and front-end confernece
 * **DHTMLConf 2000** Best described by its [website](http://dthmlconf.com)
 * **Nothing Is Sacred** A conference about questioning assumptions, experimentation, and rebuilding what's already there
