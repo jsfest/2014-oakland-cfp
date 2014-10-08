@@ -25,7 +25,7 @@ All talks are still being considered. Talks will be accepted one at a time over 
 * **NodeConf ONE-SHOT** Single day node conference
 * **Hapi Days** Single day [hapi.js](http://hapijs.com) event
 * **CSSConf** Web styling and front-end confernece
-* **DHTMLConf 2000** Best described by its [website](http://dthmlconf.com)
+* **DHTMLConf 2000** Best described by its [website](http://dhtmlconf.com)
 * **Nothing Is Sacred** A conference about questioning assumptions, experimentation, and rebuilding what's already there
 * **Browserified** A single day browserify event
 * **BaseJump** A single day event about the world of small bespoke databases, mostly around leveldb and levelup.
