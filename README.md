@@ -29,7 +29,7 @@ All talks are still being considered. Talks will be accepted one at a time over 
 * **Nothing Is Sacred** A conference about questioning assumptions, experimentation, and rebuilding what's already there
 * **Browserified** A single day browserify event
 * **BaseJump** A single day event about the world of small bespoke databases, mostly around leveldb and levelup.
-* **Decentralize.js** Peer-to-Peer ALL THE THINGS!
+* ~~**Decentralize.js** Peer-to-Peer ALL THE THINGS!~~
 
 ### Submissions
 
